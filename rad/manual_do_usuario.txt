@@ -1,0 +1,26 @@
+Manual do usuário:
+Bem vindos ao sistema de cátalogo de filmes
+
+1.0-ao iniciar o programa você vai visualizar a tela de login:
+
+	*digite o seu nome de usuário e a sua senha para fazer login
+
+1.2- De um click no botão criar usuário para cadastrar um usuário e uma senha
+
+2.0- ao logar no sistema você terá acesso à tela do catalogo
+
+2.1 na parte inferior da janelça você irá vizualizar os botões:
+	2.1.1- cadastrar(use para cadastrar um filme)
+		*você será direcionado para a tela de cadastro: preencha os campos e click em cadastrar
+		
+	2.1.2- editar(use para editar um filme). não esqueça de selecionar o filme que deseja editar.
+			*você será direcionado para a tela de edição: modifique os valores dos campos preenchidos e 
+				click em editar.
+				
+	2.1.3- excluir (use para excluir um filme)não esqueça de selecionar o filme que deseja excluir.
+		*Ao clicar no botão excluir uma janela se abrirá com a pergunta: "tem certeza que deseja excluir filme?".
+			Clicando na opção "sim", o filme será excluído do catálogo.
+			
+	2.1.4 - sair use para encerrar o sistema.
+			Ao clicar na opção "sair" o sistema será encerrado.
+	

@@ -1,0 +1,38 @@
+Criar sistema de catálogs de filmes
+objetivo: permitir que um usuário tenha acesso ao catálogo de filmes podendo adicionar filme, editar ou excluir filme do catálogo
+
+Entidades:
+	*Projeto
+		nome
+	*usuário
+		id(pk)
+		nome
+		semha
+		log
+		
+	*catálogo
+		id(pk)
+		nome
+		gênero
+		data de lançamento
+
+requisitos do sistema:
+	*TELA DE LOGIN
+	*criar um usuário
+	*visualizar todo o catálogo
+	*adiconar filme ao catálogo
+	*editar catálogo
+	*excluir filme do catálogo
+	*deve gerar logs de acesso no formato txt
+	e cadstra-los no banco de dados 
+
+tecnologias utilizadas:
+	python
+	tkinter
+	sqlite
+	visual studio
+	
+	
+	
+
+		
